@@ -7,4 +7,5 @@
 |  3  | [H02](./H02/README.md) | [Understanding Encapsulation](./H02/README.md)|
 |  4  | [H03](./H03/README.md) | [Inheritance in OOP](./H03/README.md)|
 |  5  | [H04](./H04/README.md) | [Understanding Polymorphism in OOP](./H04/README.md)|
-|  6  | [A04](./A04/README.md)  | [Celebration of Scholarship](./A04/README.md)|
+|  6  | [H05](./H05/README.md) | [Understanding Abstraction in OOP](./H05/README.md)|
+|  9  | [A04](./A04/README.md)  | [Celebration of Scholarship](./A04/README.md)|
